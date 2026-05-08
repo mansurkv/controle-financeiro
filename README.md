@@ -44,7 +44,7 @@ Projeto desenvolvido em Python com SQLite para gerenciamento de transações fin
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/mansurkv/controle-financeiro
 ```
 
 Entre na pasta:
