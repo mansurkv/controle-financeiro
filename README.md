@@ -66,19 +66,20 @@ python app.py
 ```text
 controle_financeiro/
 │
+├── Images/
 ├── app.py
 ├── banco.py
-├── financeiro.db
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
 
 ## Demonstração
 
-![Menu](imagens/menu.png)
-![Adicionar](imagens/adicionar.png)
-![Listagem](imagens/listagem.png)
+![Menu](Imagens/menu.png)
+![Adicionar](Imagens/adicionar.png)
+![Listagem](Imagens/listagem.png)
 ---
 
 ## Melhorias Futuras
